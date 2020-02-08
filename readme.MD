@@ -3,7 +3,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/EM-Creations/TheBearCave-Framework-ArmA-3/releases/latest">
-        <img src="https://img.shields.io/badge/Version-4.3.0-blue.svg" alt="The Bear Cave Framework Version">
+        <img src="https://img.shields.io/badge/Version-4.4.0-blue.svg" alt="The Bear Cave Framework Version">
     </a>
     <a href="https://github.com/EM-Creations/TheBearCave-Framework-ArmA-3/issues">
         <img src="https://img.shields.io/github/issues-raw/EM-Creations/TheBearCave-Framework-ArmA-3.svg?label=Issues" alt="The Bear Cave Framework Issues">
