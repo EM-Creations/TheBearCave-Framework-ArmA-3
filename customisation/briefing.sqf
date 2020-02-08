@@ -59,6 +59,19 @@ NEWTAB("VI. Mission notes:") //  This is shown for everyone
 // Text goes here
 ENDTAB;
 
+NEWTAB("Changelog") // This is shown for everyone
+// Use this space to explain changes between versions of your mission
+<font color='#FFF' size='14' face='RobotoCondensedBold'>Version 1c:</font>
+<br />
+- EXAMPLE End condition bug fixed
+<br /><br />
+<font color='#FFF' size='14' face='RobotoCondensedBold'>Version 1b:</font>
+<br />
+- EXAMPLE Loadouts changed
+<br />
+- EXAMPLE AI difficulty increased
+ENDTAB;
+
 NEWTAB("Game Mastering") // This is shown for everyone
 This mission is not designed for game mastering and should only be manipulated for technical, administrative or diagnostic purposes.
 ENDTAB;
