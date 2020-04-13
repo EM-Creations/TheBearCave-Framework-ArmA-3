@@ -219,7 +219,8 @@ if (!isDedicated) then {
 	FNC_SpectatingRemoteFunc = {
 		player setVariable ["FW_Dead", true, true]; //Tells the framework the player is dead
 
-		player hideObjectGlobal true;
+		[(player),true] remoteExecCall ["hideObject", 0];
+		[(player),true] remoteExecCall ["hideObjectGlobal", 2];
 		player setCaptive true;
 		player allowDamage false;
 
