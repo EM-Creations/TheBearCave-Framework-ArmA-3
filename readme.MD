@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/EM-Creations/TheBearCave-Framework-ArmA-3/blob/master/core/tbc-logo.png">
+    <img src="https://github.com/EM-Creations/TheBearCave-Framework-ArmA-3/blob/v4.3.0/core/tbc-logo.png">
 </p>
 <p align="center">
     <a href="https://github.com/EM-Creations/TheBearCave-Framework-ArmA-3/releases/latest">
