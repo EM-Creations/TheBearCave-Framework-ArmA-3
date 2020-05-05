@@ -15,7 +15,7 @@
 #include "self_actions\root.sqf"
 #include "shot_count\root.sqf"
 #include "start_on_safe\root.sqf"
-#include "Vcom\root.sqf"
+#include "vcom\root.sqf"
 
 // Additional modules that can be enabled by removing the "//"
 // Note: Some of them require changing settings in their settings.sqf file!!

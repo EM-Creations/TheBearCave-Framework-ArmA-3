@@ -3,7 +3,7 @@ class VcomFunctions
 	tag = "VCM";
 	class VCMFnc
 	{
-		file = "modules\Vcom\Functions";
+		file = "modules\vcom\Functions";
 		//[] call VCM_fnc_SquadExc
 		class SquadExc {};
 		//[] call VCM_fnc_KitChk
