@@ -15,10 +15,11 @@
 #include "self_actions\root.sqf"
 #include "shot_count\root.sqf"
 #include "start_on_safe\root.sqf"
-#include "Vcom\root.sqf"
+#include "vcom\root.sqf"
 
 // Additional modules that can be enabled by removing the "//"
 // Note: Some of them require changing settings in their settings.sqf file!!
+// Tip: To keep the size of the end mission to a minimum you can remove the directories of modules you're not using.
 
 //#include "a3_endscreen\root.sqf"
 
@@ -38,6 +39,7 @@
 //#include "extract\root.sqf"
 //#include "firemission\root.sqf"
 //#include "hostage\root.sqf"
+//#include "hostage_multiple\root.sqf"
 //#include "marker_control\root.sqf"
 //#include "plank\root.sqf"
 //#include "setup_timer\root.sqf"

@@ -1,16 +1,16 @@
 <p align="center">
-    <img src="https://github.com/EM-Creations/TheBearCave-Framework-ArmA-3/blob/master/core/tbc-logo.png">
+    <img src="https://github.com/EM-Creations/TheBearCave-Framework-ArmA-3/blob/v4.3.0/core/tbc-logo.png">
 </p>
 <p align="center">
     <a href="https://github.com/EM-Creations/TheBearCave-Framework-ArmA-3/releases/latest">
-        <img src="https://img.shields.io/badge/Version-4.3.0-blue.svg" alt="The Bear Cave Framework Version">
+        <img src="https://img.shields.io/badge/Version-4.4.0-blue.svg" alt="The Bear Cave Framework Version">
     </a>
     <a href="https://github.com/EM-Creations/TheBearCave-Framework-ArmA-3/issues">
         <img src="https://img.shields.io/github/issues-raw/EM-Creations/TheBearCave-Framework-ArmA-3.svg?label=Issues" alt="The Bear Cave Framework Issues">
     </a>
 </p>
 
-**The Bear Cave Framework** is a fork of the [**Olsen Framework**](https://github.com/dklollol/Olsen-Framework-Arma-3) optimised for The Bear Cave community, with further fixes and additions. It's an efficient and modular mission making framework designed to help create large scale, high quality ArmA 3 scenarios. Although designed for Bear Cave scenarios, it can be used in different types of communities and servers due to it's modular nature and high flexibility.
+**The Bear Cave Framework** is a fork of the [**Olsen Framework**](https://github.com/dklollol/Olsen-Framework-Arma-3) optimised for The Bear Cave community, with further fixes and additions. It's an efficient and modular mission making framework designed to help create large scale, high quality ArmA 3 scenarios. Although designed for The Bear Cave scenarios, it can be used in different types of communities and servers due to it's modular nature and high flexibility.
 
 To learn more, visit [Olsen Framework's wiki](https://github.com/dklollol/Olsen-Framework-Arma-3/wiki).
 

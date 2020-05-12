@@ -16,14 +16,14 @@ if (isServer) then
 		}
 		else
 		{
-			private _Settings = compile preprocessFileLineNumbers "modules\Vcom\Functions\VCOMAI_DefaultSettings.sqf";
+			private _Settings = compile preprocessFileLineNumbers "modules\vcom\Functions\VCOMAI_DefaultSettings.sqf";
 			[] call _Settings;
 			[Vcm_Settings] remoteExec ["VCM_PublicScript",0,false];
 		};
 	}
 	else
 	{
-			private _Settings = compile preprocessFileLineNumbers "modules\Vcom\Functions\VCOMAI_DefaultSettings.sqf";
+			private _Settings = compile preprocessFileLineNumbers "modules\vcom\Functions\VCOMAI_DefaultSettings.sqf";
 			[] call _Settings;
 			[Vcm_Settings] remoteExec ["VCM_PublicScript",0,false];
 	};
